@@ -14,3 +14,6 @@ this file describes the variables, the data, and any transformations or work tha
 ### run_analysis.R 
 this file contains all the code to perform the analyses described in the 5 steps. They can be launched in RStudio by just importing the file.
 
+### tidy.txt
+
+this file is result file of run_analysis.R
